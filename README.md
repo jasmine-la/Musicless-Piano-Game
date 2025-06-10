@@ -3,6 +3,8 @@
 Project Description: Musicless Piano Game
 This game was built as my AP CSP final project to demostrate skills in JavaScript, HTML, and CSS. It includes user interaction and real-time score tracking.
 
+<img width="679" alt="Screenshot 2025-06-09 at 10 16 28 PM" src="https://github.com/user-attachments/assets/188315df-d9b5-4ac6-bf0b-d60819caf6af" />
+
 How to Use the Website
 - Hit the **"Start Game"** button to begin
 - Click ONLY the black tiles before they disappear off the screen
