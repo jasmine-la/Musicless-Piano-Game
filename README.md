@@ -20,4 +20,4 @@ Credits & Resources
 - Google: Sited in code
 - Ajith Araiza Singh: Real-time ChatGPT via FaceTime to help me understand some of the logic
 
-Link: 
+Link: https://jasmine-la.github.io/Musicless-Piano-Game/
